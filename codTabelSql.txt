@@ -1,0 +1,14 @@
+USE LicentaStudenti
+GO
+CREATE TABLE CatalogTable2
+(
+  ID  INT IDENTITY (1,1) PRIMARY KEY,
+  CodMatricol NCHAR (50),
+  NumeStudent nvarchar(100),
+  PrenumeStudent nvarchar(100),
+  NotaStudent NCHAR (12),
+  ProiectLicentaNume nvarchar(100),
+  CodProiect NCHAR(12),
+  NumaDeVize NCHAR(12)
+)
+

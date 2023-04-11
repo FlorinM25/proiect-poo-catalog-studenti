@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CatalogStudenti
+build_property.ProjectDir = F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\ProiectPOO-MicudaFlorin si MiloiPavel - AIA An 2 Grupa 4LF402\CatalogStudenti\

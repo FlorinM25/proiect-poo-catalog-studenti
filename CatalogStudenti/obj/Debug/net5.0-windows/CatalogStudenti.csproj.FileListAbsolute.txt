@@ -1,0 +1,98 @@
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.exe
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.deps.json
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.runtimeconfig.json
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.runtimeconfig.dev.json
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\ref\CatalogStudenti.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.pdb
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.GenerateResource.cache
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AssemblyInfoInputs.cache
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AssemblyInfo.cs
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\ref\CatalogStudenti.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.pdb
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.genruntimeconfig.cache
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Meniu.resources
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Catalog.resources
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.CopyComplete
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AdaugaDatele.resources
+C:\Users\Florin\Desktop\School\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Properties.Resources.resources
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.exe
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.deps.json
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.runtimeconfig.json
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.runtimeconfig.dev.json
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\ref\CatalogStudenti.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\CatalogStudenti.pdb
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.AssemblyReference.cache
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AdaugaDatele.resources
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Catalog.resources
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Meniu.resources
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.Properties.Resources.resources
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.GenerateResource.cache
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.GeneratedMSBuildEditorConfig.editorconfig
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AssemblyInfoInputs.cache
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.AssemblyInfo.cs
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.CoreCompileInputs.cache
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.csproj.CopyComplete
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\ref\CatalogStudenti.dll
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.pdb
+F:\Florin\School\SCHOOL 4 ( An 2 Sem 2 )\SEMESTRUL 2\POO\Proiect POO var 4\CatalogStudenti\obj\Debug\net5.0-windows\CatalogStudenti.genruntimeconfig.cache
