@@ -3,6 +3,10 @@ Student Catalog Management System
 
 This repository contains a C# project for managing a student catalog, including adding, updating, and viewing student data. The project leverages Windows Forms for the user interface and follows a Model-View-ViewModel (MVVM) architecture.
 
+Here is a video demonstration of the project:
+
+![Demo Video](DemoVideo.mp4)
+
 Table of Contents
 -----------------
 
